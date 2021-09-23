@@ -1,0 +1,11 @@
+body {
+  padding-top: 2rem;
+  color: rgb(25, 77, 77);
+  text-align: center;
+}
+img {
+  width: 10%;
+}
+button {
+  margin-block: 3rem;
+}
